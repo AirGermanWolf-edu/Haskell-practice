@@ -4,10 +4,6 @@
 -- (completa y sustituye los siguientes datos)
 -- Titulación: Grado en Ingeniería Informática
 -- Alumno: MORETON SCHULZ MIGUEL
--- Fecha de entrega: DIA | MES | AÑO
---
--- Relación de Ejercicios 1. Ejercicios resueltos: ..........
---
 -------------------------------------------------------------------------------
 import Test.QuickCheck
 
